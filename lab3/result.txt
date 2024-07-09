@@ -1,0 +1,8 @@
+time =                    0, Shift = 0, SI = 0, Q = xxxx
+time =                   14, Shift = 0, SI = 0, Q = 0000
+time =                   28, Shift = 0, SI = 0, Q = 0000
+time =                   42, Shift = 1, SI = 1, Q = 1000
+time =                   56, Shift = 1, SI = 1, Q = 1100
+time =                   70, Shift = 1, SI = 0, Q = 0110
+time =                   84, Shift = 1, SI = 1, Q = 1011
+time =                   98, Shift = 0, SI = 1, Q = 1011
