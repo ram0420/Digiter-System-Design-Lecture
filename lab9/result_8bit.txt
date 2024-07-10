@@ -1,0 +1,8 @@
+time =                   21, x=  9, y= 99 time =                  135, sum = 108,
+time =                  147, x= 18, y=143 time =                  261, sum = 161,
+time =                  273, x= 13, y= 83 time =                  387, sum =  96,
+time =                  399, x=235, y=182 time =                  513, sum = 417,
+time =                  525, x=159, y=143 time =                  639, sum = 302,
+time =                  651, x= 18, y=126 time =                  765, sum = 144,
+time =                  777, x=115, y=163 time =                  891, sum = 278,
+time =                  903, x=208, y= 42
