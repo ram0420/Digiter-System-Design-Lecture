@@ -1,0 +1,10 @@
+A=xxxx, B=xxxx, Co=x, Sum=xxxx, Sum_ans=xxxx
+A=3524, B=5e81, Co=0, Sum=93a5, Sum_ans=93a5
+A=d609, B=5663, Co=1, Sum=2c6c, Sum_ans=2c6c
+A=7b0d, B=998d, Co=1, Sum=149a, Sum_ans=149a
+A=8465, B=5212, Co=0, Sum=d677, Sum_ans=d677
+A=e301, B=cd0d, Co=1, Sum=b00e, Sum_ans=b00e
+A=f176, B=cd3d, Co=1, Sum=beb3, Sum_ans=beb3
+A=57ed, B=f78c, Co=1, Sum=4f79, Sum_ans=4f79
+A=e9f9, B=24c6, Co=1, Sum=0ebf, Sum_ans=0ebf
+A=84c5, B=d2aa, Co=1, Sum=576f, Sum_ans=576f

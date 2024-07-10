@@ -1,0 +1,10 @@
+A=    x, B=    x, Co=x, Sum=    x, Sum_ans=    x
+A=13604, B=24193, Co=0, Sum=37797, Sum_ans=37797
+A=54793, B=22115, Co=1, Sum=11372, Sum_ans=11372
+A=31501, B=39309, Co=1, Sum= 5274, Sum_ans= 5274
+A=33893, B=21010, Co=0, Sum=54903, Sum_ans=54903
+A=58113, B=52493, Co=1, Sum=45070, Sum_ans=45070
+A=61814, B=52541, Co=1, Sum=48819, Sum_ans=48819
+A=22509, B=63372, Co=1, Sum=20345, Sum_ans=20345
+A=59897, B= 9414, Co=1, Sum= 3775, Sum_ans= 3775
+A=33989, B=53930, Co=1, Sum=22383, Sum_ans=22383

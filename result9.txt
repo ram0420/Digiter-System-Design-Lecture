@@ -1,0 +1,20 @@
+A = x, B = x,
+         Sum = xx
+A = 4, B = 1,
+         Sum = 05
+A = 9, B = 3,
+         Sum = 0c
+A = d, B = d,
+         Sum = 1a
+A = 5, B = 2,
+         Sum = 07
+A = 1, B = d,
+         Sum = 0e
+A = 6, B = d,
+         Sum = 13
+A = d, B = c,
+         Sum = 19
+A = 9, B = 6,
+         Sum = 0f
+A = 5, B = a,
+         Sum = 0f
