@@ -1,0 +1,100 @@
+time =                  492, fifo_cnt = 32
+FIFO is full!
+time =                  528, data_out = 00, fifo_cnt = 31
+time =                  542, data_out = 01, fifo_cnt = 30
+time =                  556, data_out = 02, fifo_cnt = 29
+time =                  570, data_out = 03, fifo_cnt = 28
+time =                  584, data_out = 04, fifo_cnt = 27
+time =                  598, data_out = 05, fifo_cnt = 26
+time =                  612, data_out = 06, fifo_cnt = 25
+time =                  626, data_out = 07, fifo_cnt = 24
+time =                  640, data_out = 08, fifo_cnt = 23
+time =                  654, data_out = 09, fifo_cnt = 22
+time =                  668, data_out = 0a, fifo_cnt = 21
+time =                  682, data_out = 0b, fifo_cnt = 20
+time =                  696, data_out = 0c, fifo_cnt = 19
+time =                  710, data_out = 0d, fifo_cnt = 18
+time =                  724, data_out = 0e, fifo_cnt = 17
+time =                  738, data_out = 0f, fifo_cnt = 16
+time =                  752, data_out = 10, fifo_cnt = 15
+time =                  766, data_out = 11, fifo_cnt = 14
+time =                  780, data_out = 12, fifo_cnt = 13
+time =                  794, data_out = 13, fifo_cnt = 12
+time =                  808, data_out = 14, fifo_cnt = 11
+time =                  822, data_out = 15, fifo_cnt = 10
+time =                  836, data_out = 16, fifo_cnt =  9
+time =                  850, data_out = 17, fifo_cnt =  8
+time =                  864, data_out = 18, fifo_cnt =  7
+time =                  878, data_out = 19, fifo_cnt =  6
+time =                  892, data_out = 1a, fifo_cnt =  5
+time =                  906, data_out = 1b, fifo_cnt =  4
+time =                  920, data_out = 1c, fifo_cnt =  3
+time =                  934, data_out = 1d, fifo_cnt =  2
+time =                  948, data_out = 1e, fifo_cnt =  1
+time =                  962, data_out = 1f, fifo_cnt =  0
+time =                  976, data_out = zz, fifo_cnt =  0
+time =                  990, data_out = zz, fifo_cnt =  0
+FIFO is empty!
+Test with random data! current fifo_count =  0
+time =                 1018, rd = 1, data_out = zz
+time =                 1018, fifo_cnt =  0
+time =                 1030, wr = 1, data_in = 0d
+time =                 1033, rd = 1, data_out = 0d
+time =                 1033, fifo_cnt =  0
+time =                 1044, wr = 1, data_in = 01
+time =                 1044, fifo_cnt =  1
+time =                 1058, wr = 1, data_in = 1d
+time =                 1058, fifo_cnt =  2
+time =                 1072, wr = 1, data_in = 19
+time =                 1072, fifo_cnt =  3
+time =                 1088, rd = 1, data_out = 01
+time =                 1088, fifo_cnt =  2
+time =                 1100, wr = 1, data_in = 12
+time =                 1103, rd = 1, data_out = 1d
+time =                 1103, fifo_cnt =  2
+time =                 1114, wr = 1, data_in = 0e
+time =                 1114, fifo_cnt =  3
+time =                 1130, rd = 1, data_out = 19
+time =                 1130, fifo_cnt =  2
+time =                 1142, wr = 1, data_in = 05
+time =                 1145, rd = 1, data_out = 12
+time =                 1145, fifo_cnt =  2
+time =                 1156, wr = 1, data_in = 00
+time =                 1156, fifo_cnt =  3
+time =                 1169, fifo_cnt =  3
+time =                 1186, rd = 1, data_out = 0e
+time =                 1186, fifo_cnt =  2
+time =                 1198, wr = 1, data_in = 15
+time =                 1201, rd = 1, data_out = 05
+time =                 1201, fifo_cnt =  2
+time =                 1211, fifo_cnt =  2
+time =                 1226, wr = 1, data_in = 0a
+time =                 1229, rd = 1, data_out = 00
+time =                 1229, fifo_cnt =  2
+time =                 1239, fifo_cnt =  2
+time =                 1256, rd = 1, data_out = 15
+time =                 1256, fifo_cnt =  1
+time =                 1270, rd = 1, data_out = 0a
+time =                 1270, fifo_cnt =  0
+time =                 1281, fifo_cnt =  0
+time =                 1295, fifo_cnt =  0
+time =                 1310, wr = 1, data_in = 0f
+time =                 1313, rd = 1, data_out = 0f
+time =                 1313, fifo_cnt =  0
+time =                 1324, wr = 1, data_in = 1e
+time =                 1324, fifo_cnt =  1
+time =                 1338, wr = 1, data_in = 19
+time =                 1341, rd = 1, data_out = 1e
+time =                 1341, fifo_cnt =  1
+time =                 1351, fifo_cnt =  1
+time =                 1366, wr = 1, data_in = 17
+time =                 1366, fifo_cnt =  2
+time =                 1380, wr = 1, data_in = 1b
+time =                 1380, fifo_cnt =  3
+time =                 1394, wr = 1, data_in = 10
+time =                 1397, rd = 1, data_out = 19
+time =                 1397, fifo_cnt =  3
+time =                 1408, wr = 1, data_in = 16
+time =                 1411, rd = 1, data_out = 17
+time =                 1411, fifo_cnt =  3
+time =                 1421, fifo_cnt =  3
