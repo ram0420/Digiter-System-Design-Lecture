@@ -1,0 +1,8 @@
+time =                   21, mcand =   9, mplier =  99, time =                  135, sum =    891,
+time =                  147, mcand =  18, mplier = 143, time =                  261, sum =   2574,
+time =                  273, mcand =  13, mplier =  83, time =                  387, sum =   1079,
+time =                  399, mcand = 235, mplier = 182, time =                  513, sum =  42770,
+time =                  525, mcand = 159, mplier = 143, time =                  639, sum =  22737,
+time =                  651, mcand =  18, mplier = 126, time =                  765, sum =   2268,
+time =                  777, mcand = 115, mplier = 163, time =                  891, sum =  18745,
+time =                  903, mcand = 208, mplier =  42,

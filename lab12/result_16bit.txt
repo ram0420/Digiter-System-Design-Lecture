@@ -1,0 +1,5 @@
+time =                   21, mcand = 54793, mplier = 22115, time =                  247, sum = 1211747195,
+time =                  259, mcand = 16022, mplier = 47123, time =                  485, sum =  755004706,
+time =                  497, mcand = 39921, mplier = 19417, time =                  723, sum =  775146057,
+time =                  735, mcand = 25432, mplier = 14470, time =                  961, sum =  368001040,
+time =                  973, mcand = 30311, mplier = 13322,
